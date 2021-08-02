@@ -1,1 +1,6 @@
-# Minecraft-Diamond-Siege-----2
+# Minecraft Diamond Siege
+
+Important: Because of server issues, the spacebar update is not visible. 
+
+
+
